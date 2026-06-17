@@ -1,5 +1,7 @@
 # Luhn Card Validator
 
+[![tests](https://github.com/ayondey47/luhn-card-validator/actions/workflows/tests.yml/badge.svg)](https://github.com/ayondey47/luhn-card-validator/actions/workflows/tests.yml)
+
 A dependency-free utility that validates payment-card numbers with the **Luhn
 (mod-10) checksum**, detects the issuing **brand** from prefix/length rules, and
 extracts the **BIN** — the cheap, deterministic first check a payments or fraud
